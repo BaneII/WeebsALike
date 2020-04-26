@@ -1,0 +1,7 @@
+{
+  "name": "WeebsALike",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
