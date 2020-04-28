@@ -1,0 +1,10 @@
+#Submit {
+	position: absolute;
+	top: 400px;
+	left: 50%;
+}
+
+#Space {
+	bottom: 0px;
+	min-height: 300px;
+}
